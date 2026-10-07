@@ -33,8 +33,9 @@ calls I got wrong.
 
 ## Selected work
 
-- **[invoice-reader](https://github.com/Agarwal-Nekhil/invoice-reader)**: invoice PDF to JSON, with an OCR fallback
-  for scans and an LLM filling the caller's template; FastAPI, Docker. 2025.
+- **[invoice-reader](https://github.com/Agarwal-Nekhil/invoice-reader)**: invoice PDF to JSON, built from a basic RAG
+  prototype I was handed: text first, OCR for scans, an LLM fills the caller's template; FastAPI, Docker. A later
+  version went live on Google Cloud Functions. 2025.
 - A merged fix to [QtScrcpyCore](https://github.com/barry-ran/QtScrcpyCore/pull/17): re-centring the mouse cursor on
   macOS. July 2026.
 

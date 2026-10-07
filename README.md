@@ -23,8 +23,6 @@ full-time engineer until June, working with the founders.
 - **Backend.** Took the inherited NestJS backend to launch: security hardening, CI, and deploys moved to GitHub
   Actions.
 
-Frep's code is private, so this work doesn't show on the contribution graph here.
-
 ## How I work with AI coding agents
 
 Claude Code agents write code to my specs; I make the decisions and check the result, not the agent's report. CI and
